@@ -6,7 +6,7 @@ export default function App() {
   return (
     <>
       <nav className='flex flex-col items-center justify-center h-[10svh] w-screen px-4'>
-        <ul className='text-2xl flex flex-row gap-4 justify-start w-full'>
+        <ul className='text-xl lg:text-2xl flex flex-row gap-4 justify-start w-full'>
           <li className='mb-4'>
             <Link
               href='/'
