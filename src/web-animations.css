@@ -1,5 +1,4 @@
-/* filepath: /Users/undesicimo/Documents/Github/motion/src/App.css */
-/* Most styles have been moved to Tailwind utility classes in the JSX */
+
 
 /* Custom animation styles */
 @keyframes logo-spin {
@@ -11,7 +10,6 @@
   }
 }
 
-/* Hover effect for the React logo - now using Tailwind classes in the component */
 .hover\:drop-shadow-glow:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
